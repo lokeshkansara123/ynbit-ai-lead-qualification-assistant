@@ -1,0 +1,7 @@
+sample_id,company,inquiry,expected_category_for_manual_review,data_status
+SYN-001,Example Retail,We need an AI chatbot for our e-commerce website with multilingual support and CRM integration.,AI / LLM Solution,Fictional demo data
+SYN-002,Example SaaS,"Our team wants to migrate a legacy application to AWS, use Docker, and improve deployment reliability.",Cloud / DevOps,Fictional demo data
+SYN-003,Example Services,We need a dashboard to combine sales data and campaign performance for weekly reporting.,Data / Analytics,Fictional demo data
+SYN-004,Example Startup,"We need Salesforce CRM integration, lead management, and automated follow-up workflows.",CRM / Sales Automation,Fictional demo data
+SYN-005,Example Store,We want a mobile app and website for customers to browse products and place orders.,Web / Mobile Development,Fictional demo data
+SYN-006,Example Brand,"We want to improve SEO, Google Ads performance, and campaign conversion tracking.",Digital Marketing / SEO,Fictional demo data
